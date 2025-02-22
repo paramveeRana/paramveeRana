@@ -1,80 +1,100 @@
-# <div align="center">👨‍💻 Paramveer Singh</div>
+# 👋 Hi, I'm Paramveer Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Startup+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6F44F7&center=true&vCenter=true&width=435&lines=Healthcare+Tech+Innovator;Full+Stack+Developer;ML+Engineer;Problem+Solver" alt="Typing SVG" />
 </div>
+
+## 🧠 About Me
+
+I'm a tech innovator at the intersection of healthcare and artificial intelligence. With a passion for creating impactful solutions, I leverage cutting-edge technologies to build systems that can make a real difference in people's lives. My work on the Brain Stroke Prevention Platform demonstrates my commitment to using technology for healthcare advancement.
 
 <div align="center">
   <a href="mailto:iamparamveersingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iamparamveersingh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/Paramveer-Singh">
-    <img src="https://img.shields.io/badge/LinkedIn-Paramveer_Singh-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://brain-stroke.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-## About Me
-I'm a passionate Full Stack Developer from Indore, India, with a strong foundation in software development and cybersecurity. As a co-founder of Parcelvala.in, I've successfully led the platform to handle over 20,000 orders, demonstrating my ability to build and scale real-world applications. I'm particularly interested in creating innovative solutions that solve complex problems.
+## 🔬 Innovation Projects
 
-## 🚀 Featured Projects
+### Brain Stroke Prevention Platform
+_Revolutionizing stroke risk assessment through AI_
+<div align="left">
+  <a href="https://brain-stroke.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Platform-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
 
-### Brain Stroke Detection System
-AI-powered healthcare solution for early stroke detection.
-- Developed machine learning model with 95%+ accuracy using Python and scikit-learn
-- Implemented real-time prediction system with Flask backend
-- Created intuitive web interface for medical professionals
-- Live Demo: [brain-stroke.vercel.app](https://brain-stroke.vercel.app)
+- 🧠 **AI-Powered Analysis**: Developed ML model achieving 95%+ accuracy in stroke risk prediction
+- 🔒 **Secure Architecture**: Implemented end-to-end encrypted data handling with Flask & React
+- 📊 **Real-time Processing**: Built scalable backend for instantaneous risk assessment
+- 💻 **Modern Interface**: Created intuitive UI with React and TailwindCSS for medical professionals
+- 🌐 **Cloud Deployment**: Optimized for scale using Vercel and containerization
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-ML_Core-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Neural_Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-Predictions-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### WebSecure VPN
-A robust VPN solution built with security and performance in mind.
-- Implemented WireGuard protocol for fast and secure tunneling
-- Integrated AES-256 encryption and dynamic IP allocation
-- Built scalable backend with Express and Node.js
-- Developed secure user authentication and access management
+_Enterprise-grade security solution_
+- 🔐 Implemented WireGuard protocol with AES-256 encryption
+- 🚀 Built high-performance Node.js backend
+- 🌍 Developed dynamic IP allocation system
+- 🔑 Created robust authentication framework
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF4646?style=flat-square&logo=security&logoColor=white)
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-API-000000?style=flat-square&logo=express&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Encryption-FF4646?style=flat-square&logo=security&logoColor=white)
 
 ### Connect Video Conference
-Enterprise-grade video conferencing platform with focus on performance.
-- Supports up to 50 participants in group meetings
-- Real-time video/audio streaming using WebRTC
-- Modern UI built with React.js and TailwindCSS
-- Optimized for low-latency communication
+_Next-gen communication platform_
+- 👥 Scaled to support 50+ concurrent participants
+- 🎥 Implemented WebRTC for real-time streaming
+- 🎨 Designed modern UI with React & TailwindCSS
+- ⚡ Optimized for minimal latency
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Tech Stack:**
+![WebRTC](https://img.shields.io/badge/WebRTC-Streaming-333333?style=flat-square&logo=webrtc&logoColor=white)
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 💻 Technical Expertise
+## 💻 Technical Arsenal
 
 <div align="center">
 
-**Core Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Core Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ML_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**AI & Backend**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Development & Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+## 🎯 Current Focus
+- 🔬 Enhancing ML models for healthcare applications
+- 🚀 Scaling the Brain Stroke Prevention Platform
+- 🤝 Open to collaborate on innovative healthcare tech projects
+- 📚 Exploring advanced AI techniques in medical diagnosis
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <sub>🌟 Building technology that makes a difference in healthcare</sub>
 </div> 
