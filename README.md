@@ -23,11 +23,12 @@ AI-powered healthcare solution for early stroke detection.
 - Developed machine learning model with 95%+ accuracy using Python and scikit-learn
 - Implemented real-time prediction system with Flask backend
 - Created intuitive web interface for medical professionals
-- Deployed on cloud for scalable access
+- Live Demo: [brain-stroke.vercel.app](https://brain-stroke.vercel.app)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### WebSecure VPN
 A robust VPN solution built with security and performance in mind.
@@ -50,17 +51,6 @@ Enterprise-grade video conferencing platform with focus on performance.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Portfolio Website
-Modern portfolio showcasing my work and skills.
-- Built with Next.js and TailwindCSS for optimal performance
-- Implemented responsive design and dark mode
-- Deployed on Vercel with continuous integration
-- Live at: [paramveerana.vercel.app](https://paramveerana.vercel.app)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 💻 Technical Expertise
 
