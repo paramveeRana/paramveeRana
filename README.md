@@ -65,6 +65,19 @@ _AI-powered risk assessment system_
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   15 hrs 40 mins  ███████████░░░░░░  48.2%
+JavaScript   8 hrs 20 mins   ██████░░░░░░░░░░░  25.6%
+Python       4 hrs 45 mins   ███░░░░░░░░░░░░░░  14.6%
+Docker       3 hrs 15 mins   ██░░░░░░░░░░░░░░░  11.6%
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramveeRana&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=4" alt="Most Used Languages" />
+</div>
+
 ## ⚡ Technical Arsenal
 
 <div align="center">
