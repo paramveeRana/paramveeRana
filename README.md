@@ -24,11 +24,6 @@ I'm a Full Stack Developer and Security Engineer who thrives on building robust,
 
 ### WebSecure VPN
 _Enterprise-grade security solution with advanced encryption_
-<div align="left">
-  <a href="https://github.com/paramveeRana/websecure-vpn">
-    <img src="https://img.shields.io/badge/Source-View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
-  </a>
-</div>
 
 - 🔐 **Advanced Security**: Implemented WireGuard protocol with AES-256 encryption
 - 🚀 **High Performance**: Built scalable Node.js backend with optimized routing
