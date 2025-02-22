@@ -12,8 +12,11 @@ I'm a Full Stack Developer and Security Engineer who thrives on building robust,
   <a href="mailto:iamparamveersingh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Paramveer-Singh">
+  <a href="https://www.linkedin.com/in/paramveer-singh01/">
     <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/paramveerana">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
 
